@@ -1,4 +1,4 @@
-# 🧮 DS29 Hybrid Scientific Calculator
+# DS29 Hybrid Scientific Calculator
 
 A versatile, high-performance **Hybrid Calculator** designed for both everyday arithmetic and advanced scientific computation. Featuring a "Glass-3D" interface and a dual-drawer system, it adapts to your needs with a single tap.
 
@@ -6,7 +6,7 @@ A versatile, high-performance **Hybrid Calculator** designed for both everyday a
 
 ---
 
-## 📸 Interface Preview
+## Interface Preview
 
 | 🌙 Midnight Dark Mode | ☀️ Lavender Light Mode |
 |:---:|:---:|
@@ -14,7 +14,7 @@ A versatile, high-performance **Hybrid Calculator** designed for both everyday a
 
 ---
 
-## 🛠️ Detailed Functionality
+## Detailed Functionality
 
 The DS29 is a **Hybrid engine** split into three main modules: the **Standard Pad**, the **Scientific Drawer**, and the **History Vault**.
 
@@ -33,7 +33,7 @@ The DS29 is a **Hybrid engine** split into three main modules: the **Standard Pa
 
 ---
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### **The Stack**
 * **Structure:** HTML5 using semantic elements for web accessibility.
